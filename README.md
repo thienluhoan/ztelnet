@@ -20,6 +20,9 @@ Upload Configs:
 curl https://bashupload.com/db_user_cfg.xml -kT /tmp/debug-decry-cfg
 ```
 
+Tutorials Link Voz:
+https://voz.vn/t/tool-unlock-modem-zte-vd-zte-zxhn-f670y.662051/
+
 Credits:
 
 - https://www.jarvisw.com/?p=1517
